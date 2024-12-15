@@ -4,11 +4,11 @@
 
 **CodeQA** is a system designed to enhance programming-related question-answering using a combination of **Large Language Models (LLMs)** and **Retrieval-Augmented Generation (RAG)**. This project addresses the challenges of hallucinations, adaptability, and context sensitivity in traditional transformer-based systems by integrating advanced retrieval techniques and domain-specific LLM fine-tuning.
 
-With the exponential growth of programming languages and their ecosystems, CodeQA serves as a robust mechanism to help developers navigate complex documentation and technical queries efficiently.
+With the exponential growth of programming languages and their ecosystems, CodeQA is a robust mechanism to help developers navigate complex documentation and technical queries efficiently.
 
 ## Features
 
-- **Dynamic Retrieval**: Utilizes vector databases for fast and accurate retrieval of programming-related documents.
+- **Dynamic Retrieval**: Utilizes vector databases to quickly and accurately retrieve programming-related documents.
 - **Context-Aware Responses**: Combines in-depth pre-training with RAG techniques to improve accuracy and reduce hallucinations.
 - **Zero-Shot Learning**: Achieves high performance on unseen programming queries.
 - **Comparative Modeling**: Benchmarks between transformer-based models (Flan-T5) and large-scale LLMs (Deepseek).
@@ -17,8 +17,8 @@ With the exponential growth of programming languages and their ecosystems, CodeQ
 
 The workflow consists of:
 1. **Question Classification**: Determines if the query is programming-related.
-2. **Document Retrieval**: Uses cosine similarity to retrieve top 3 relevant documents from a local vector database.
-3. **Context-Based Answering**: Generates answers using either the retrieved documents or external web search results.
+2. **Document Retrieval**: Uses cosine similarity to retrieve the top 3 relevant documents from a local vector database.
+3. **Context-Based Answering**: Generates answers using retrieved documents or external web search results.
 4. **LLM Integration**: Employs deep pre-trained models for improved context understanding and response generation.
 
 ![Workflow Diagram](https://github.com/user-attachments/assets/4569efcd-5761-433f-9713-8fdd67f83df3)
@@ -54,7 +54,7 @@ CodeQA has been tested on the **CoNaLa dataset**, with 50 programming questions.
 
 - **Semantic Chunking**: Enhance document preprocessing for more accurate retrieval.
 - **Question-Driven Similarity**: Generate multiple questions per document chunk to improve matching precision.
-- **Fine-Tuning**: Train transformer models specifically on programming datasets.
+- **Fine-tuning**: Train transformer models specifically on programming datasets.
 - **Improved Search Tool**: Enhance web-based context retrieval for rare or complex queries.
 
 ## References
