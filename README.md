@@ -59,4 +59,5 @@ CodeQA has been tested on the **CoNaLa dataset**, with 50 programming questions.
 
 ## References
 
-For a full list of references, see the [paper]([path/to/paper.pdf](https://ieeexplore.ieee.org/abstract/document/10753267)).
+For a full list of references, see the [paper](https://ieeexplore.ieee.org/abstract/document/10753267).
+Our data files: [Main Data](https://drive.google.com/drive/folders/1OeW5SyKsLnIXYEaElsddgM6DdZam_F2R?usp=sharing)
