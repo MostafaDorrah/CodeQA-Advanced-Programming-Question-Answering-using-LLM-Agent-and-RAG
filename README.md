@@ -57,6 +57,18 @@ CodeQA has been tested on the **CoNaLa dataset**, with 50 programming questions.
 - **Fine-tuning**: Train transformer models specifically on programming datasets.
 - **Improved Search Tool**: Enhance web-based context retrieval for rare or complex queries.
 
+## Acknowledgments
+
+This project is the result of a collaborative effort.
+Special thanks to the team:  
+- [Mr. Mostafa Samer](https://github.com/MostafaDorrah)
+- [Mr. Mohamed Ahmed](https://github.com/mohamed-mamado)  
+- [Mr. Ahmed Ashraf](https://github.com/ahmedashraf)
+- [Mr. Yousif Khalil](https://github.com/y0usefadel)
+- [Mr. Abdelrahman Elatrozy](https://github.com/Atrozy)  
+- [Mr. Bahaa Moustafa](https://github.com/BahaaEldin0)
+
+
 ## References
 
 For a full list of references, see the [paper](https://ieeexplore.ieee.org/abstract/document/10753267).
